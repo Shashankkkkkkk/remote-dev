@@ -42,6 +42,8 @@ const submitHandler = event => {
         return;
     }
 
+    ///?
+    
     // blur input after loading
     searchInputEl.blur();
 
