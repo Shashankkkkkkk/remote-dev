@@ -190,7 +190,10 @@ input {
 }
 
 .logo__img {
-    margin-bottom: -5px;
+    width: 130px;
+    height: 85px;
+    margin-top: 13px;
+    
 }
 
 /* BOOKMARKS BTN */
